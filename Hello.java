@@ -5,5 +5,7 @@ public class Hello {
 		Pig pig = new Pig("Хрюня", 2, 30);
 		pig.say();
         pig.say("ЧТО, БЛЕАТЬ?");
+        Dog dog = new Dog();
+        dog.say();
 	}
 }

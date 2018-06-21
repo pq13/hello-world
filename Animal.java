@@ -5,7 +5,7 @@ public class Animal {
 
     public Animal(){}
 
-	public Animal(String name, int age, int weight) {
+	public Animal(String name, int age, float weight) {
 		this.name = name;
 		this.age = age;
 		this.weight = weight;
